@@ -150,7 +150,7 @@ _NCrunch_*
 nCrunchTemp_*
 
 # MightyMoose
-*.mm.*
+#*.mm.* ## This was hiding the \Runtime\Plugins\iOS\RegisterPlugin.mm.meta file from git
 AutoTest.Net/
 
 # Web workbench (sass)
